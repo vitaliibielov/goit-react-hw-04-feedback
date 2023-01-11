@@ -1,0 +1,13 @@
+.statList {
+  display: block;
+  margin-left: 60px;
+}
+
+.statItem {
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 16px;
+  color: black;
+}

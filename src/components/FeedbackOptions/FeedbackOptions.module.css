@@ -1,0 +1,66 @@
+.fbOpList {
+  display: flex;
+  gap: 30px;
+  margin-left: 60px;
+}
+
+.fbOpItem {
+  display: block;
+}
+
+.fbBtn {
+  display: block;
+  padding: 10px;
+}
+
+.good {
+  display: block;
+  width: 75px;
+  font-weight: 700;
+
+  padding: 10px;
+  border: solid 1px #04aa6d;
+  border-radius: 5px;
+  color: #04aa6d;
+  background-color: white;
+}
+
+.good:hover {
+  border: solid 1px #04aa6d;
+  background-color: #04aa6d;
+  color: white;
+}
+
+.neutral {
+  display: block;
+  width: 75px;
+  font-weight: 700;
+
+  padding: 10px;
+  border: solid 1px #838383;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.neutral:hover {
+  border: solid 1px #838383;
+  background-color: #838383;
+  color: white;
+}
+
+.bad {
+  display: block;
+  width: 75px;
+  font-weight: 700;
+  color: #ef5350;
+  padding: 10px;
+  border: solid 1px #ef5350;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.bad:hover {
+  border: solid 1px #ef5350;
+  background-color: #ef5350;
+  color: white;
+}
